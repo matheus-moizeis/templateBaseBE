@@ -1,0 +1,6 @@
+@TBB.Api_HostAddress = http://localhost:5094
+
+GET {{TBB.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
