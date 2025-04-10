@@ -11,6 +11,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\TemplateBaseBe.Communication\TemplateBaseBe.Communication.csproj" />
+    <ProjectReference Include="..\TemplateBaseBe.Exceptions\TemplateBaseBe.Exceptions.csproj" />
     <ProjectReference Include="..\TemplateBaseBe.IoC\TemplateBaseBe.IoC.csproj" />
   </ItemGroup>
 

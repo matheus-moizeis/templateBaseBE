@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateBaseBe.Application"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateBaseBe.Domain", "src\TemplateBaseBe.Domain\TemplateBaseBe.Domain.csproj", "{11E974C9-1420-4B81-88C0-0A6C5A11A629}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateBaseBe.Shared", "src\TemplateBaseBe.Shared\TemplateBaseBe.Shared.csproj", "{C6CFE7E2-5587-4471-9053-9896D3E7BDF7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateBaseBe.Communication", "src\TemplateBaseBe.Communication\TemplateBaseBe.Communication.csproj", "{C6CFE7E2-5587-4471-9053-9896D3E7BDF7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateBaseBe.Data", "src\TemplateBaseBe.Infrastructure\TemplateBaseBe.Data.csproj", "{CF99BD34-2871-4F37-BF50-85D4F8232B49}"
 EndProject

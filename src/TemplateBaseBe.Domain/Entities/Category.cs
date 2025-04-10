@@ -2,6 +2,8 @@
 
 public class Category : BaseEntity
 {
-    public string Name { get; set; } = string.Empty;
-    public ICollection<Product>? Products { get; set; }
+    public string Name { get; private set; } = string.Empty;
+    
+    // EF Core navigation property
+    public ICollection<Product> Products { get; set; }
 }
